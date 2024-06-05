@@ -1,4 +1,4 @@
-# greatbrittan.github.io
+# GreatBrittan's C++ Journey
 
 ## Week 2:
 
