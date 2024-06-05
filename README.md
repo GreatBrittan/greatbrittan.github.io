@@ -14,6 +14,9 @@ There are no impediments in my way, besides the Leetcode premium paywall.
 ##### Reflection on the process you used last week, how can you make the process work better?
 I think that last week I wasn't as committed to my project and the independent study required of this class. I am the type of person who needs the pressure on them to preform. However, after the end of last week and beginning of this week I have been really enjoying having time to study new languages and techniques. I think going forward I will try to keep a strict schedule of daily learning, coding and project planning. I think by sticking to a strict schedule with daily time requirements. 
 
+<br /> 
+<br />
+
 ## Week 3:
 
 ##### What did you do last week?
