@@ -37,7 +37,7 @@ Last week I was primarily focused on becoming more familiar with C++, however mo
 ## Week 4:
 
 ##### What did you do last week?
-Last week I continued working on learning C++, It was spent mostly watching tutorial videos and practicing leetcode problems. I have maintained a daily leetcode streak since first setting out on this project. I wasn't able to start a project as a significant amount of time was spent getting the compiler to work on my laptop. I watched mostly C++ instructional videos as well as videos regarding C++ game development and the steps and tools required.
+Last week I continued working on learning C++, My time was spent mostly watching tutorial videos and practicing leetcode problems. I have maintained a daily leetcode streak since first setting out on this project. I wasn't able to start a project as a significant amount of time was spent getting the compiler to work on my laptop. I watched mostly C++ instructional videos as well as videos regarding C++ game development and the steps and tools required.
 
 ##### What do you plan to do this week?
 This week, I plan to create a project to experiment with player movement, and collision with the game world. I would like to get this project up an running as soon as possible to continue to build on this knowledge to fully flesh out the game. I also plan on continuing my leetcode streak, I plan on continuing through the entire course so I would like to add another 7 days to the streak this week. In addition I plan on continuing my education through supplemental tutorials.
