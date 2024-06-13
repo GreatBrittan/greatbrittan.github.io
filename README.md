@@ -31,5 +31,23 @@ Currently I am away from my primary machine as I am visiting family; I am curren
 ##### Reflection on the process you used last week, how can you make the process work better?
 Last week I was primarily focused on becoming more familiar with C++, however most of this studying was review as I learned alot of the language in my data structures class. I felt that I was able to learn more through leetcode practice than by simply watching tutorials. In addition, the things I learned through practice are more engrained in my memory than the what I watched in the tutorials. Knowing this I am going to try to do more practice with C++ and game development by creating projects, this way I will retain more information than simply watching lectures. I still want to continue watching tutorials, however I will allocate more time to practicing than viewing this week. I think this will allow me to have a more concrete understanding of C++. 
 
+<br /> 
+<br />
+
+## Week 4:
+
+##### What did you do last week?
+Last week I continued working on learning C++, It was spent mostly watching tutorial videos and practicing leetcode problems. I have maintained a daily leetcode streak since first setting out on this project. I wasn't able to start a project as a significant amount of time was spent getting the compiler to work on my laptop. I watched mostly C++ instructional videos as well as videos regarding C++ game development and the steps and tools required.
+
+##### What do you plan to do this week?
+This week, I plan to create a project to experiment with player movement, and collision with the game world. I would like to get this project up an running as soon as possible to continue to build on this knowledge to fully flesh out the game. I also plan on continuing my leetcode streak, I plan on continuing through the entire course so I would like to add another 7 days to the streak this week. In addition I plan on continuing my education through supplemental tutorials.
+
+##### Are there any impediments in your way?
+This week, I will be travelling again to see family which means I will be using my laptop for programming. Since last week I have become more efficient at working on my project on the laptop so this week will hopefully be more productive than last week.
+
+##### Reflection on the process you used last week, how can you make the process work better?
+I think that understanding the project outline and how to organize the files is a crucial first step, I think by practcing using smaller projects I can ideally structure my project files to be seamless and easily understandable. This week I will work on structuring and creating a projec to get some of the parts working for the final project. I hope that this initial project serves as the first springboard to propel me towards success. 
+
+
 
 
