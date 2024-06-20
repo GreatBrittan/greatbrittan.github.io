@@ -46,7 +46,24 @@ This week, I plan to create a project to experiment with player movement, and co
 This week, I will be travelling again to see family which means I will be using my laptop for programming. Since last week I have become more efficient at working on my project on the laptop so this week will hopefully be more productive than last week.
 
 ##### Reflection on the process you used last week, how can you make the process work better?
-I think that understanding the project outline and how to organize the files is a crucial first step, I think by practcing using smaller projects I can ideally structure my project files to be seamless and easily understandable. This week I will work on structuring and creating a projec to get some of the parts working for the final project. I hope that this initial project serves as the first springboard to propel me towards success. 
+I think that understanding the project outline and how to organize the files is a crucial first step, I think by practcing using smaller projects I can ideally structure my project files to be seamless and easily understandable. This week I will work on structuring and creating a projec to get some of the parts working for the final project. I hope that this initial project serves as the first springboard to propel me towards success.
+
+<br /> 
+<br />
+
+## Week 5:
+
+##### What did you do last week?
+Last week I kept working on expanding my knowledge with C++, as well as furthering my understanding of the intersection of gamedevelopment and C++. I also continued work in leetcode as well as began working on creating projects to practice the neccesary skills for this project.
+
+##### What do you plan to do this week?
+This week I plan to get working projects as a proof of concept for many features I intend to introcude into my project. I want to continue my education on C++ as well. In addition I would like to continue my leetcode work and maintain the daily problem streak I am currently on.
+
+##### Are there any impediments in your way?
+This week I have been very pressed for time, I am in my hometown visiting family in hospital so I haven't had much time to dedicate towards furthering the project. 
+
+##### Reflection on the process you used last week, how can you make the process work better?
+I think that so far the process has been going well, I would like to create more projects. I think once I am back at my workstation and able to fully focus on my work I will be able to achieve much more progress than what was acomplished last week.
 
 
 
