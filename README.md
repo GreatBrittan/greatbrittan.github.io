@@ -65,6 +65,24 @@ This week I have been very pressed for time, I am in my hometown visiting family
 ##### Reflection on the process you used last week, how can you make the process work better?
 I think that so far the process has been going well, I would like to create more projects. I think once I am back at my workstation and able to fully focus on my work I will be able to achieve much more progress than what was acomplished last week.
 
+<br /> 
+<br />
+
+## Week 6:
+
+##### What did you do last week?
+Last week I began working on a C++ project utilizing keyboard input to move a sprite on the screen. I have also been keeping up my daily leetcode practice, as well as utilizing C++ in my other assignments to continue my practice.
+
+##### What do you plan to do this week?
+This week I plan to continue working on my project to move the sprite using the keyboard, I plan on creating borders and collision, as well as potentially implementing new movement styles such as acceleration and deceleration.
+
+##### Are there any impediments in your way?
+There are no impediments in my way this week. 
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week I was very busy and didn't have as much time, because of this I lost my leetcode streak and didn't get much done. I was able to retain the streak using the time travel token however, I am still upset that I allowed it to end. In order to make this better I plan on being more consistent with allowing myself time to work on my projects and C++.
+
+
 
 
 
