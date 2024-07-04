@@ -82,6 +82,23 @@ There are no impediments in my way this week.
 ##### Reflection on the process you used last week, how can you make the process work better?
 Last week I was very busy and didn't have as much time, because of this I lost my leetcode streak and didn't get much done. I was able to retain the streak using the time travel token however, I am still upset that I allowed it to end. In order to make this better I plan on being more consistent with allowing myself time to work on my projects and C++.
 
+<br /> 
+<br />
+
+## Week 7:
+
+##### What did you do last week?
+Last week I kept working on my C++ project, I also continued watchin tutorials and instructional videos, in addition I attempted to continue leetcode practice and maintain a daily problem streak.
+
+##### What do you plan to do this week?
+This week I plan to finsih my current project on movement and work on building out levels to traverse, as well as try to blend the last project with the new one to begin building towards a functioning game. 
+
+##### Are there any impediments in your way?
+There are no impediments in my way this week. 
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week I got careless and forgot to do the daily leetcode problem, and beacause of this lost my daily steak, I am upset but I will try to maintain the new one I started in it's place. I think that staying consistent is very important so I will try to do better moving forward. 
+
 
 
 
