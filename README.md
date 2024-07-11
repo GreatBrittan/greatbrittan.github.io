@@ -99,6 +99,24 @@ There are no impediments in my way this week.
 ##### Reflection on the process you used last week, how can you make the process work better?
 Last week I got careless and forgot to do the daily leetcode problem, and beacause of this lost my daily steak, I am upset but I will try to maintain the new one I started in it's place. I think that staying consistent is very important so I will try to do better moving forward. 
 
+<br /> 
+<br />
+
+## Week 8:
+
+##### What did you do last week?
+Last week I wasn't able to get much done, I am moving right now and haven't had much time to work on my project.
+
+##### What do you plan to do this week?
+I plan to continue working on my individual projects and continue practicing leetcode and working through more tutorial videos. I'm hoping to get my internet setup and my workstation setup to be able to keep working.
+
+##### Are there any impediments in your way?
+The impediments in my way are getting my internet and pc setup 
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week was hectic, lots of stressors and planning issues. Looking back I could have gotten the moving process started sooner so I could be more ready. I need to continue to stay consistent moving forward as I have already had many delays due to life circumstances.
+
+
 
 
 
