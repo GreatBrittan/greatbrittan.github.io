@@ -117,7 +117,21 @@ The impediments in my way are getting my internet and pc setup
 Last week was hectic, lots of stressors and planning issues. Looking back I could have gotten the moving process started sooner so I could be more ready. I need to continue to stay consistent moving forward as I have already had many delays due to life circumstances.
 
 
+<br /> 
+<br />
 
+## Week 9:
 
+##### What did you do last week?
+Last week I continued to work on the game engine, adding colision to the player model, as well as adjusting the movement to be independent of the fps of the game. I tried to continue the leetcode streak and continued to watch c++ videos and game development videos to continue to make progress.
+
+##### What do you plan to do this week?
+This week I plan to continue working on the engine, adding custom movements such as sprinting or dodging as well as stylizing the playing area and the player character. I also intend to continue to craft the story and gameplay desing of the game and add features that support this gameplay. 
+
+##### Are there any impediments in your way?
+The only impediment in my way is creative vision, and decided how I want the gameplay to function.
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week It was very difficult to manage my time as I was moving and unpacking my entire apartment. This brought alot of stress and challenges when trying to work on my project. Because of the constant attention the move required I lost my leetcode daily streak, this was sad but slightly liberating as I felt preassure to answer the daily problem regardless of my knowledge of the solution. This caused me to be careless when answering some of the harder problems as I was more concerned with simply getting the correct answer than understanding the problem. For these reasons I've decided to forgo the daily streak and instead simply try to stay consistent with a few problems a week. This way I can spend longer understanding the optimal solutions and not be as stressed to complete it daily.
 
 
