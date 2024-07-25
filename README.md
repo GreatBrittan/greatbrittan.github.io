@@ -134,4 +134,21 @@ The only impediment in my way is creative vision, and decided how I want the gam
 ##### Reflection on the process you used last week, how can you make the process work better?
 Last week It was very difficult to manage my time as I was moving and unpacking my entire apartment. This brought alot of stress and challenges when trying to work on my project. Because of the constant attention the move required I lost my leetcode daily streak, this was sad but slightly liberating as I felt preassure to answer the daily problem regardless of my knowledge of the solution. This caused me to be careless when answering some of the harder problems as I was more concerned with simply getting the correct answer than understanding the problem. For these reasons I've decided to forgo the daily streak and instead simply try to stay consistent with a few problems a week. This way I can spend longer understanding the optimal solutions and not be as stressed to complete it daily.
 
+<br /> 
+<br />
+
+## Week 10:
+
+##### What did you do last week?
+Last week I implemented improved movement into the game engine, including dashes and scaling the movement properly, independent of frame rate. I also worked on implemening level design and creating enemies for the player to interact with.
+
+##### What do you plan to do this week?
+This week I plan to continue implemening and desgining the levels and gameplay mechanics, as well as working on collision and enemy interactions. 
+
+##### Are there any impediments in your way?
+There are no impediments in my way.
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week was dificult as I am at the stage where I need to design the gameplay and make it enjoyable, this is dificult as there are many different avenues I can take, so deciding on which ones to choose is challenging. I am excited to continue to develop it, and implement new features to fully flesh out the gameplay. I have taken a relaxed approach towards the daily leetcode problems which has taken away some stress however I haven't been able to complete as many problems. I think I am going to try to increase my leetcode practice for this week.
+
 
