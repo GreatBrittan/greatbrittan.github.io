@@ -151,4 +151,23 @@ There are no impediments in my way.
 ##### Reflection on the process you used last week, how can you make the process work better?
 Last week was dificult as I am at the stage where I need to design the gameplay and make it enjoyable, this is dificult as there are many different avenues I can take, so deciding on which ones to choose is challenging. I am excited to continue to develop it, and implement new features to fully flesh out the gameplay. I have taken a relaxed approach towards the daily leetcode problems which has taken away some stress however I haven't been able to complete as many problems. I think I am going to try to increase my leetcode practice for this week.
 
+<br /> 
+<br />
+
+## Week 11:
+
+##### What did you do last week?
+Last week I implemented enemies and enemy pathfinding, so far they're just blocks that follow the player around and kill the player if they make contact. I don't know if I should add projectiles, but I am worried about not finishing the project if I try to do too much. I still need to implement the enemy spawning and despawning.
+
+##### What do you plan to do this week?
+This week I plan to finish implementing the enemy design and implement attacks, as well I would like to add sprites and models so that it is not just rectangles on a plane. I need to finish working on enemy spawning and pathfinding before I can tackle those issues though. I think I am taking a hiatus from leetcode as I want to finish this project primarily so practicing my C++ will have to wait as I am already getting enough practice trying to implement new features. I am still lacking in creative vision for the game so this week I will also be working on desining the world and choosing the background and enemies. I don't know if there is time to craft a story or any sort of dialogue.
+
+##### Are there any impediments in your way?
+There are no impediments in my way.
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week made me realize how much problemsolving goes into each step in the game development process. I figured there would be tride and true techniques for enemy spawning and pathfinding, however it is very much up to the individual game developer to figure out how to develop these features. While there is good advice online, there is a tremendous amount of trial and error that goes into the process. This makes me nervous for being able to finish the project on time as it is taking a long time to add each new feature. However, I still have confidence that it will all come together.
+
+
+
 
