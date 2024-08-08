@@ -169,5 +169,20 @@ There are no impediments in my way.
 Last week made me realize how much problemsolving goes into each step in the game development process. I figured there would be tride and true techniques for enemy spawning and pathfinding, however it is very much up to the individual game developer to figure out how to develop these features. While there is good advice online, there is a tremendous amount of trial and error that goes into the process. This makes me nervous for being able to finish the project on time as it is taking a long time to add each new feature. However, I still have confidence that it will all come together.
 
 
+<br /> 
+<br />
 
+## Week 12:
+
+##### What did you do last week?
+Last week I fixed the enemy spawning mechanics as well as the pathfinding abilities, I also implemented an attack feature to eliminate the enemies. However currently the attack is a close range melee attack while I think it would be better if it was projectile based. I also tried to implement sprites and textures for the game however I noticed that the easiest way to implement this would require to me rebuild the entire graphical interface. This seems very complicated an time consuming, which I have little time left. Therefor, I beleive that simple geometric shapes will have to do.
+
+##### What do you plan to do this week?
+This week I plan to implement multiple levels and varying enemy types. I also need to implement the main menu, as well as the gameover screens. In addition I might also change the player attack to be a projectile based attack. 
+
+##### Are there any impediments in your way?
+The only impediments are the architecture and framework I chose as they are incompatible with some of the features I wanted to implement.
+
+##### Reflection on the process you used last week, how can you make the process work better?
+Last week I spent several hours implementing and testing new features, This allowed me to get alot of progress done as opposed to only spending an hour or two every other day. I think that longer more focused sessions would lead itself towards a more succesful outcome compared to the on and off approach I was using before.
 
